@@ -24,7 +24,7 @@ jobs:
           git config --global user.name "Arnau Castells"
 
       - name: Install
-        run: npm install
+        run: npm ci
 
       - name: Build
         run: npm run build
