@@ -67,7 +67,7 @@ export default function App() {
 
 	return (
 		<>
-			<h1>Steam Deals</h1>
+			<h1 style={{textAlign:"center"}}>Steam Deals</h1>
 
 			<div
 				style={{
